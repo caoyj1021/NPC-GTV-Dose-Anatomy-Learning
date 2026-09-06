@@ -1,0 +1,36 @@
+# Environments and caches
+.env
+.venv/
+venv/
+__pycache__/
+.ipynb_checkpoints/
+.pytest_cache/
+.ruff_cache/
+
+# Governed imaging and masks
+data/
+raw_data/
+derived_data/
+*.dcm
+*.nii
+*.nii.gz
+*.mha
+*.mhd
+*.nrrd
+
+# Patient-level arrays, predictions, spreadsheets, and checkpoints
+*.npz
+*.npy
+*.csv
+*.tsv
+*.xlsx
+*.xls
+*.pt
+*.pth
+*.ckpt
+
+# Generated outputs
+outputs/
+checkpoints/
+runs/
+logs/

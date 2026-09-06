@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated manuscript and this software release."
+title: "GTV-informed three-dimensional dose-anatomy learning for severe acute oral mucositis in nasopharyngeal carcinoma: development and external validation"
+type: software
+authors:
+  - family-names: Cao
+    given-names: Yijian
+version: 1.2.0
+date-released: 2026-09-06
+license: MIT
+repository-code: "https://github.com/caoyj1021/NPC-GTV-Dose-Anatomy-Learning
+abstract: "Public analysis code for preprocessing, 3D CNN development, locked external validation, and manuscript figure generation."
+keywords:
+  - nasopharyngeal carcinoma
+  - oral mucositis
+  - radiotherapy
+  - deep learning
+  - dose map
+  - gross tumor volume
