@@ -2,6 +2,9 @@
 
 Version 1.2.0 of the public analysis-code release accompanying the manuscript.
 
+Public repository: https://github.com/caoyj1021/NPC-GTV-Dose-Anatomy-Learning  
+Archived release: Zenodo DOI: https://doi.org/10.5281/zenodo.22459984
+
 ## What this repository contains
 
 - preprocessing and spatial input construction for planning CT, RT dose, oral-cavity masks, and GTV masks;
@@ -61,4 +64,4 @@ The repository exposes analysis logic but cannot reproduce numerical manuscript 
 
 ## License and citation
 
-Code is released under the MIT License. See `LICENSE` and `CITATION.cff`. Before public release, replace the repository URL in `CITATION.cff`. After the GitHub release is archived, add the Zenodo DOI to `CITATION.cff` and this README.
+Code is released under the MIT License. See `LICENSE` and `CITATION.cff`. The frozen v1.2.0 release is archived in Zenodo at DOI [10.5281/zenodo.22459984](https://doi.org/10.5281/zenodo.22459984). README-only metadata updates on the main branch do not alter the archived release.
