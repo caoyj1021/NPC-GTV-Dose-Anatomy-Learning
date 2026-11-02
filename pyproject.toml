@@ -1,0 +1,10 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+[project]
+name = "npc-gtv-dose-anatomy-learning"
+version = "1.3.0"
+requires-python = ">=3.10"
+description = "Final-cohort dose-anatomy learning and revision analyses"
+[tool.setuptools.packages.find]
+include = ["npc_pipeline*"]

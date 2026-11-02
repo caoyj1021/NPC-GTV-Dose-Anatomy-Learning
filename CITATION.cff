@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 title: "GTV-informed three-dimensional dose-anatomy learning for severe acute oral mucositis in nasopharyngeal carcinoma: development and external validation"
-version: 1.2.0
+version: 1.3.0
 license: "MIT"
 type: software
 abstract: "Public analysis code for preprocessing, spatial input construction, 3D CNN development, repeated cross-validation, locked external validation, statistical evaluation, calibration and decision-curve analysis, Layer4 Grad-CAM generation, quality control, and manuscript figure generation."
@@ -17,3 +17,5 @@ keywords:
   - dose map
   - gross tumor volume
   - external validation
+
+repository-code: "https://github.com/caoyj1021/NPC-GTV-Dose-Anatomy-Learning"

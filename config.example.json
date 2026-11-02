@@ -1,0 +1,26 @@
+{
+  "master": "E:/research/final_master.xlsx",
+  "master_sheet": "Master Data",
+  "result_root": "E:/research/results",
+  "npz_dir": "E:/research/preprocessed/npz",
+  "existing_splits_root": null,
+  "split_dir": null,
+  "cnn_runs": {},
+  "resume_cnn_runs": {},
+  "compare_frozen_m3": true,
+  "dose_scale_csv": null,
+  "coverage_approvals_csv": null,
+  "m3_locked_threshold": 0.3434873489,
+  "figure4_cases": {
+    "Development": "SET_CASE_ID",
+    "External": "SET_CASE_ID"
+  },
+  "gradcam_cases_csv": null,
+  "frozen_sources": {
+    "cnn_root": null,
+    "development_predictions": null,
+    "external_predictions": null,
+    "revision_runs": {},
+    "clinical_run": null
+  }
+}

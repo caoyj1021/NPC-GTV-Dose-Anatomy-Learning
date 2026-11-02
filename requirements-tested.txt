@@ -1,0 +1,14 @@
+--extra-index-url https://download.pytorch.org/whl/cu118
+torch==2.7.1+cu118
+numpy==2.4.1
+pandas==2.3.3
+scipy==1.17.0
+scikit-learn==1.7.2
+statsmodels==0.14.5
+matplotlib==3.10.6
+SimpleITK==2.5.3
+openpyxl==3.1.5
+Pillow==12.0.0
+joblib==1.5.2
+ipython==9.7.0
+pytest==8.4.2
